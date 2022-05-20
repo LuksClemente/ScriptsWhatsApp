@@ -1,7 +1,7 @@
 # Scripts WhatsApp
 
-Código que envia scripts inteiros de filmes no WhatApp.
-Perfeito para zoar alguns amigos XD
+<p>Código que envia scripts inteiros de filmes no WhatApp.</br>
+Perfeito para zoar alguns amigos XD</p>
 
 ### Como rodar o script
 
