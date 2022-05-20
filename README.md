@@ -1,15 +1,16 @@
 # Scripts WhatsApp
 
-Código que envia scripts inteiros de filmes no WhatApp
+Código que envia scripts inteiros de filmes no WhatApp.
+Perfeito para zoar alguns amigos XD
 
-### Como rodar
+### Como rodar o script
 
-Escolha e abra um dos arquivos ".js"
+1. Escolha e abra um dos arquivos ".js"
 
-Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
+2. Copie todo o conteúdo (clique em "Raw" -> ´ctrl+a´ e depois ´ctrl+c´)
 
-No WhatsApp Web abra o console do Browser
+3. No WhatsApp Web abra o console do seu navegador
 
-Cole o código no console e aperte a tecla Enter
+4. Cole o código no console e aperte a tecla ´Enter´
 
 ### Divirta-se XD
