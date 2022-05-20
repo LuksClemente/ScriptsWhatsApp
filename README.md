@@ -12,4 +12,4 @@ No WhatsApp Web abra o console do Browser
 
 Cole o código no console e aperte a tecla Enter
 
-## Divirta-se XD
+### Divirta-se XD
