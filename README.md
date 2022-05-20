@@ -13,4 +13,9 @@ Perfeito para zoar alguns amigos XD</p>
 
 4. Cole o código no console e aperte a tecla ´ENTER´
 
+### Como customizar seu script
+
+1. Abra o arquivo "templateSendScript.js".
+2. Substitua o trecho "insira o texto aqui" pelo script do filme desejado.
+
 ### Divirta-se XD
